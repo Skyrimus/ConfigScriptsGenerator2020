@@ -1,4 +1,4 @@
-### Config Scripts Generator written on C# in 2020 year developed during college to configure Windows Server and Linux distrs 
+### Config Scripts Generator written on C# in 2020 year developed during college to configure Windows Server and Linux distrs by Skyrimus and Hydrapepe
 ### PepeSoft For Windows Server 20xx and Linux Debian using Google API
 ## Features Windows Server 20XX
 
